@@ -29,12 +29,12 @@ To start a game, viewers use the `!slots` command followed by the number of poin
 
 1. Wager 100 points:
    ```
-   !slots 100
+   !下注 100
    ```
 
 2. Wager 50% of total points:
    ```
-   !slots 50%
+   !下注 50%
    ```
 
 ## Parameters
